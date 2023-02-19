@@ -36,3 +36,6 @@ The cross validation results for the different samples with different models are
 | SVC  | 0.950  | 0.940      | 0.960   | 0.970      |
 | RFC  | 1.000  | 1.000      | 1.000   | 1.000      |
 | DT   | 0.980  | 0.980      | 1.000   | 0.920      |
+
+Random Forest Classifier showed best accuracy for all the sampling techniques.
+Stratified Sampling Technique is the best technique in this case but only marginally
